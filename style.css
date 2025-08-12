@@ -1,5 +1,16 @@
 body{
     background-color: black;
     color: aqua;
-    
 }
+    section{
+        background-color: rgb(250, 212, 166);
+        padding-top: 80px;
+        padding-bottom: 80px;
+        display: flex;
+        justify-content: center;
+        .chamada-texto{
+            margin-right: 40px;
+        }
+    
+    }
+
