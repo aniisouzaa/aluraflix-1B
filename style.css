@@ -13,5 +13,10 @@ body{
         .chamada-texto{
             margin-right: 40px;
         }
+        .categoria-videos{
+            display: flex;
+            overflow-x: auto;
+            gap: 10px;
+        }
     
 
