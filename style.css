@@ -39,4 +39,9 @@ img{
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+h2{
+    font-size: 30px;
+    color: rgb(136, 136, 229);
+}
 
