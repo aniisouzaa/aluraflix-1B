@@ -1,24 +1,41 @@
 body{
-    background-color: black;
-    color: rgb(68, 0, 255);
-    font-family: ;
+    background-color: darkorange;
+    color: darkblue;
+    font-family: Playwrite Hrvatska Lijeva;
 }
-    section{
-        background-color: rgb(152, 160, 238);
-        padding-top: 80px;
-        padding-bottom: 80px;
-        display: flex;
-        justify-content: center;
-    }
-
-
-        .chamada-texto{
-            margin-right: 40px;
-        }
-        .categoria-videos{
-            display: flex;
-            overflow-x: auto;
-            gap: 10px;
-        }
-    
+section{
+    background-color: aqua;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.chamada-texto{
+    margin-right: 40px;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+}
+header{
+    font-size: 30px;
+    padding-left: 20px;
+}
+img{
+    height: 200px;
+}
+.chamada{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    background-color: rgb(196, 57, 126);
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 
