@@ -14,14 +14,13 @@ section{
 }
 .chamada-texto{
     margin-right: 40px;
-    color: rgb(40, 198, 177);
 }
 h1{
     font-size: 30px;
-    color: rgb(196, 238, 255);
 }
 p{
     font-size: 30px;
+    color: bisque;
 }
 header{
     font-size: 30px;
